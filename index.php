@@ -6,7 +6,7 @@
     <h1>My first Heading</h1>
     <p>My first Paragraph </p>
     <img src="dog.jpg">
-    <img src="dog2.jpg">
+    <img src="dog3.jpg">
     <br>
     <a href="https://playvalorant.com/th-th/">This is Link</a>
 
